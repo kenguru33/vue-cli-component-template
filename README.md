@@ -7,5 +7,5 @@ To create a vue component, replace VueVersion.vue with your component and adjust
 
 Then:
 
-npm install
-npm run dev
+- npm install
+- npm run dev
